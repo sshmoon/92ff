@@ -7,7 +7,7 @@ html {
 
 body {
   font-family: Helvetica;
-  font-size: x-large;
+  font-size: large;
   color: orange;
   text-align: center;
 }
@@ -34,6 +34,7 @@ body {
   /* Black w/opacity/see-through */
   color: #affdff;
   font-weight: bold;
+  font-size: large;
   border: 3px solid #f1f1f1;
   position: absolute;
   top: 50%;
